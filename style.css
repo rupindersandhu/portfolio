@@ -1,0 +1,18 @@
+body {
+    background: #0A192F;
+}
+
+section {
+    min-height: 100vh;
+}
+
+a
+{
+    color:#64ffda;
+}
+
+blockquote {
+    background:#2a2a2a; 
+    opacity:0.8; 
+    color: white;
+}
